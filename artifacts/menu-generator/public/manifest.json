@@ -1,0 +1,23 @@
+{
+  "name": "Generador de Menú - Linasofia",
+  "short_name": "Linasofia",
+  "description": "Generador de menú diario para Panadería & Pastelería Linasofia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0603",
+  "theme_color": "#8B1A14",
+  "icons": [
+    {
+      "src": "/logo-linasofia.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
